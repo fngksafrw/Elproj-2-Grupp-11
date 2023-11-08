@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "xiao ESP32C3_PCB")(type "KiCad")(uri "C:/Users/Ogge2/OneDrive/Dokument/GitHub/Elproj-2-Grupp-11/Schematics/Libs/Footprint/xiao ESP32C3_PCB.pretty")(options "")(descr ""))
+  (lib (name "xiao ESP32C3_PCB")(type "KiCad")(uri "${KIPRJMOD}/Libs/xiao ESP32C3_PCB.pretty")(options "")(descr ""))
 )
