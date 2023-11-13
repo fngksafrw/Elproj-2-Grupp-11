@@ -31,5 +31,4 @@ fp-info-cache
 
 #My additions
 *.lck
-
-Schematics/Coil_Circuitry/~Coil_Circuitry.kicad_sch.lck
+*\#auto_saved_files\#
