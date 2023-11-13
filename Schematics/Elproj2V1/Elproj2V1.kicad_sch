@@ -2,7 +2,7 @@
 
   (uuid f0d7dc79-2865-4dd1-b2c5-de9bb2b6a418)
 
-  (paper "A5")
+  (paper "A4")
 
   (lib_symbols
     (symbol "Connector:Conn_01x04_Pin" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
@@ -1225,6 +1225,11 @@
     (fill (type none))
     (uuid 69dadb26-d4cc-42a8-86df-82561b8d04d7)
   )
+  (rectangle (start 12.7 12.7) (end 106.68 107.95)
+    (stroke (width 0) (type default) (color 255 0 13 1))
+    (fill (type none))
+    (uuid 939e260a-6251-4365-b07b-f719858b7532)
+  )
   (rectangle (start 61.595 52.07) (end 94.615 93.98)
     (stroke (width 0) (type default))
     (fill (type none))
@@ -1265,6 +1270,13 @@
     (fill (type none))
     (effects (font (size 1.27 1.27)) (justify left top))
     (uuid 933adfe7-99b1-4ba6-9090-0098bb509bfe)
+  )
+  (text_box "Coil Circuitry"
+    (at 85.09 96.52 0) (size 21.59 11.43)
+    (stroke (width 0) (type default) (color 255 9 2 1))
+    (fill (type none))
+    (effects (font (size 3 3) (color 255 0 11 1)) (justify left top))
+    (uuid afce8749-04b1-4d28-a617-2e410abd2ecf)
   )
   (text_box "Manual Debug Coil"
     (at 13.335 76.2 0) (size 8.89 6.985)
