@@ -3301,6 +3301,13 @@
     (effects (font (size 1.27 1.27)) (justify left top))
     (uuid 4b171592-673c-44b6-801c-2833da9e4cd8)
   )
+  (text_box "fixa så justerbar resistor för spänning"
+    (at 214.63 132.08 0) (size 52.07 24.13)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid 8532508c-6afd-43d6-b503-2b396a202a49)
+  )
   (text_box "Photoresistor \"Ball Detection\""
     (at 86.36 13.335 0) (size 19.05 5.715)
     (stroke (width 0) (type default))
