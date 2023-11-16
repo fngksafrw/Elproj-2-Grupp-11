@@ -4653,6 +4653,13 @@
     (effects (font (size 1.27 1.27) (color 255 0 9 1)) (justify left top))
     (uuid 5a62779f-8752-4529-9831-8369a2dff22c)
   )
+  (text_box "LEFT TO DO:\nDOUBLE CHECK VALUES AND CONNECTIONS FROM REFERENCES\nADD DATASHEETS TO COMPONENTS\nUPDATE FOOTPRINTS\nFINISH PCBS"
+    (at 316.23 17.78 0) (size 73.66 22.86)
+    (stroke (width -0.0001) (type default))
+    (fill (type none))
+    (effects (font (size 2 2)) (justify left top))
+    (uuid 6665acfc-a4ba-46ea-90c5-fab6f0f8e5e7)
+  )
   (text_box "Always on"
     (at 172.72 173.99 0) (size 3.81 2.54)
     (stroke (width -0.0001) (type default))
@@ -4694,6 +4701,13 @@
     (fill (type none))
     (effects (font (size 1 1)) (justify left top))
     (uuid c31c841a-961e-4395-80cc-de739039dfb6)
+  )
+  (text_box "Connect close to cap"
+    (at 279.4 92.71 0) (size 10.16 7.62)
+    (stroke (width -0.0001) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid c4aed220-c6ca-412e-aa56-530793787aff)
   )
   (text_box "High Speed\n"
     (at 297.18 226.06 0) (size 10.16 2.54)
