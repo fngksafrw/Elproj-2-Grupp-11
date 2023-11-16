@@ -6186,7 +6186,7 @@
     (property "Reference" "SW5" (at 312.42 194.31 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "Buck Control" (at 312.42 196.85 90)
+    (property "Value" "SW_DPDT_x2" (at 312.42 196.85 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "" (at 311.15 195.58 0)
